@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Your-RoGr)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Your-RoGr&layout=compact)](https://github.com/Your-RoGr/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Your-RoGr)](https://github.com/Your-RoGr/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=Your-RoGr)
+
 
 <!--Карточка профиля:-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Your-RoGr&theme=solarized_dark)
