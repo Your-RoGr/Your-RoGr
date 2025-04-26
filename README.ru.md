@@ -38,7 +38,7 @@
 
 ## Привет, я RoGr 👋 
 
-[English](README.md) | [Русский](README.ru.md)
+# [English](README.md) | [Русский](README.ru.md)
 
 **Добро пожаловать на мой GitHub!**
 
